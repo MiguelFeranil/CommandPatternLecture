@@ -16,3 +16,4 @@ In your solution you must provide the following in your Github link account:
   -UML Class Diagram
   
   -Uploaded java codes for the solution.
+![uml class diagram lecture](https://github.com/user-attachments/assets/0497459b-6ec8-4547-8a52-41a3445d51fd)
